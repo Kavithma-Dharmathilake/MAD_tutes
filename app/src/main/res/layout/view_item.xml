@@ -7,8 +7,8 @@
 
     <CheckBox
         android:id="@+id/cbTodo"
-        android:layout_width="339dp"
-        android:layout_height="wrap_content"
+        android:layout_width="262dp"
+        android:layout_height="match_parent"
         android:text="CheckBox" />
 
     <ImageView
