@@ -1,2 +1,2 @@
 # MAD_tutes
-This is a tutorial series on Mobile Application Development using Kotlin
+This is a simple ToDo App to insert , delete and display todo Lists
