@@ -1,2 +1,3 @@
 # MAD_tutes
-This is a tutorial series on Mobile Application Development using Kotlin
+Simple music player using MusicPlayer Service
+App is working :)
